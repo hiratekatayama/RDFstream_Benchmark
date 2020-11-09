@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/opencsv-2.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/javacsv.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/csparqlengine-0.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/xercesImpl-2.7.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/wstx-asl-3.2.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/trove-3.0.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/stax-api-1.0.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/slf4j-log4j12-1.5.8.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/slf4j-api-1.5.8.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/lucene-core-2.3.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/log4j-1.2.15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/log4j-1.2.14.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/junit-4.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/jena-tdb-0.9.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/jena-iri-0.9.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/jena-core-2.7.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/jena-arq-2.9.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/je-5.0.73.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/je-4.1.10.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/icu4j-3.4.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/hppc-0.4.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/fastutil-6.4.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/esper-4.2.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/cqels.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/commons-math-2.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/commons-logging-1.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/colt.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/cglib-nodep-2.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CQELS-lib/antlr-runtime-3.2.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="1.7" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="opencsv-2.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/opencsv-2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javacsv.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/javacsv.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="csparqlengine-0.9.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/csparqlengine-0.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xercesImpl-2.7.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/xercesImpl-2.7.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wstx-asl-3.2.9.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/wstx-asl-3.2.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="trove-3.0.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/trove-3.0.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="stax-api-1.0.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/stax-api-1.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-log4j12-1.5.8.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/slf4j-log4j12-1.5.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api-1.5.8.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/slf4j-api-1.5.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lucene-core-2.3.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/lucene-core-2.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/log4j-1.2.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.14.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/log4j-1.2.14.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junit-4.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/junit-4.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jena-iri-0.9.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/jena-iri-0.9.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jena-core-2.7.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/jena-core-2.7.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jena-arq-2.9.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/jena-arq-2.9.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="je-5.0.73.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/je-5.0.73.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="je-4.1.10.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/je-4.1.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="icu4j-3.4.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/icu4j-3.4.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hppc-0.4.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/hppc-0.4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fastutil-6.4.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/fastutil-6.4.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="esper-4.2.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/esper-4.2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cqels-all-1.0.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/cqels.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/cqels-all-1.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-math-2.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/commons-math-2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/commons-logging-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="colt.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/colt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cglib-nodep-2.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/cglib-nodep-2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="antlr-runtime-3.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELS-lib/antlr-runtime-3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cqelsplus">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CQELSplus/cqelsplus-0.0.1-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="jena-tdb-0.9.3" level="project" />
+  </component>
+</module>

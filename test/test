@@ -1,0 +1,36 @@
+public class CityBench {
+    public enum RSPEngine {
+        cqels, csparql
+    }
+
+    public static ExecContext cqelsContext, tempContext;
+    public static CsprarqlEngineImpl csparqlEngine;
+
+    public static void main(String[] args) {
+        try {
+            Properties prop = new Properties();
+            File in = new File("citybench.properties");
+            FileInputStream fis = new FileInputStream(in);
+            prop.load(fis);
+            fis.close();
+            // Thread
+            HashMap<String, String> parameters = new HashMap<~>();
+            for (String s: args) {
+                parameters.put(s.split("=")[0], s.split("=")[1]);
+            }
+            CityBench cb = new CityBench(prop, parameters);
+            cb.startTest();
+        } catch (IOException e) {
+            e.printStackTrace();
+            System.exit(0);
+        }
+    }
+
+    public CityBench(Properties prop, HashMap<String, String> parameters) throws Exception {
+        try {
+            this.dataset = prop.getProperty("dataset");
+            System.out.println();
+        }
+    }
+
+}
